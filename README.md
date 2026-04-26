@@ -1,22 +1,40 @@
 # 👋 Oussama Elkairouh
 
-💻 Full-Stack Developer (Backend-focused)
-🎓 OFPPT Student – Digital Development
+💻 Full-Stack Developer
 
 ---
 
 ## 👨‍💻 Who I Am
 
-Backend-focused developer building clean, structured, and scalable web applications.
+Backend-focused developer building clean, scalable, and secure web applications.
+Interested in system design, performance, and real-world problem solving.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* HTML, CSS, JavaScript
-* PHP, Python
+**Frontend**
+
+* HTML, CSS, JavaScript, React
+
+**Backend**
+
+* PHP, Laravel, Python
+
+**Database**
+
 * MySQL
+
+**DevOps & Tools**
+
 * Git & GitHub
+* Docker
+* Linux (basic)
+
+**Other Knowledge**
+
+* Basic Networking
+* Web Security (fundamentals)
 
 ---
 
